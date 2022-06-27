@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mobolaji Bada</h1>
 <h3 align="center">A passionate full stack developer and data scientist from Nigeria.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mobolaji-github&label=Profile%20views&color=0e75b6&style=flat" alt="mobolaji-github" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mobolaji-github" alt="mobolaji-github" /></a> </p>
-
 - 🔭 I’m currently working on **Taking up competitions on Kaggle**
 
 - 🌱 I’m currently learning **Tensor Flow**
 
-- 🤝 I’m looking for help with **Obtaining a masters degree in Data science**
+- 🤝 I’m looking forward to gaining an admission and obtaining a masters degree in **Data science and Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mobolaji-Github](https://github.com/Mobolaji-Github)
 
