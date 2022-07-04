@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mobolaji-Github](https://github.com/Mobolaji-Github)
 
-- 💬 Ask me about **Data wrangling and Data visualisation**
+- 💬 Ask me about **Data wrangling , Data visualisation, Regression,Classification,Clustering,Scikit Learn and Scipy**
 
 - 📫 How to reach me **badabolaji@gmail.com**
 
